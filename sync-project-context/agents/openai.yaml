@@ -1,0 +1,4 @@
+interface:
+  display_name: "同步项目上下文"
+  short_description: "归档项目原始资料并同步共享上下文、接口、风险与执行台账"
+  default_prompt: "Use $sync-project-context to archive these project materials, identify factual changes, and synchronize the affected project context."
